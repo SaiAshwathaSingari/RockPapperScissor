@@ -1,3 +1,3 @@
 #This a Project made with HTML, CSS and JS mainly focusing on JS
 <br>
-#Author
+#Singari Sai Ashwatha
